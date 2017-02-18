@@ -1,0 +1,45 @@
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\bin\Debug\Course.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\bin\Debug\Course.exe
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\bin\Debug\Course.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.MainForm.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.exe
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.Forms.Performer.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.Forms.Composition.resources
+C:\Users\Vladislav\Documents\Visual Studio 2013\Projects\Course\Course\obj\Debug\Course.Forms.PerfSelect.resources
+d:\КУРС2\Course\Course\bin\Debug\Course.exe.config
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.Composition.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.MainForm.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.Performer.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.PerfSelect.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.csproj.GenerateResource.Cache
+d:\КУРС2\Course\Course\obj\Debug\Course.Properties.Resources.resources
+d:\КУРС2\Course\Course\bin\Debug\Course.exe
+d:\КУРС2\Course\Course\bin\Debug\Course.pdb
+d:\КУРС2\Course\Course\obj\Debug\Course.exe
+d:\КУРС2\Course\Course\obj\Debug\Course.pdb
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.Album.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Adding.Direct.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Adding.Genre.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Adding.Performer.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Adding.Album.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Adding.Composition.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Editing.Performer.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Editing.Direct.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Editing.Genre.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Editing.Composition.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.QueryEdit.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Editing.Album.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.AlbumSelect.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.CompSelect.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.DirectGenre.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Deleting.Composition.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Deleting.Album.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Deleting.Performer.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Deleting.Genre.resources
+D:\КУРС2\Course\Course\obj\Debug\Course.Forms.Administration.Deleting.Direct.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.Forms.PlayList.resources
+d:\КУРС2\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
